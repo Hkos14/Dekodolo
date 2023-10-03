@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dekodolo", "Dekodolo\Dekodolo.csproj", "{ED183EAB-9D88-4801-80F1-C9B553B0DCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED183EAB-9D88-4801-80F1-C9B553B0DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED183EAB-9D88-4801-80F1-C9B553B0DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED183EAB-9D88-4801-80F1-C9B553B0DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED183EAB-9D88-4801-80F1-C9B553B0DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA900E3-C656-42B8-BC2B-609F965A9439}
+	EndGlobalSection
+EndGlobal
